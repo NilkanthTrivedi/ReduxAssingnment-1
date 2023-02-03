@@ -1,0 +1,28 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "Tops step one",
+      "email": "tops@gmail.com",
+      "country": "India"
+    },
+    {
+      "name": "Hello",
+      "email": "Hello@gmail.com",
+      "country": "India",
+      "id": 6
+    },
+    {
+      "name": "deep",
+      "email": "deep@gmaicmd",
+      "country": "india",
+      "id": 10
+    },
+    {
+      "name": "deep",
+      "email": "deep@gmaicmd",
+      "country": "india",
+      "id": 11
+    }
+  ]
+}
